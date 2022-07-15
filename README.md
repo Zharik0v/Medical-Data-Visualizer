@@ -1,1 +1,2 @@
 # Medical-Data-Visualizer
+In this project, I've visualized and made calculations from medical examination data using matplotlib, seaborn, and pandas. The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices. I've used the dataset to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
